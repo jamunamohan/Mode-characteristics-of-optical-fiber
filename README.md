@@ -33,10 +33,11 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 <img width="618" height="722" alt="image" src="https://github.com/user-attachments/assets/b611cde3-a1f1-4bf4-ac7a-9de89f4b6f53" />
 
 # Observation and Calculation
-<img width="442" height="136" alt="image" src="https://github.com/user-attachments/assets/3d0b54ac-b870-412c-9344-ef34bda44f69" />
+<img width="1280" height="1006" alt="image" src="https://github.com/user-attachments/assets/ed750eb3-93ef-443f-b910-31c5ec5d0f68" />
+
 
 
 ---
 
 # Result
-
+The optical fiber supports four Linearly Polarized (LP) modes for the given system parameters.
